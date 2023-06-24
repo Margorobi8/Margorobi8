@@ -1,5 +1,6 @@
 ### Hi there 👋
 ⚡ I'm a graphic designer✨
+⚡ Today I enjoy learning WEB👩🏼‍💻 #Web3 enthusiast
 <!--
 **Margorobi8/Margorobi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
